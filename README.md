@@ -6,11 +6,11 @@ Este repositório contém atividades práticas dos Cursos da DIO ([Digital Innov
 
 1. **React Native**
    
-   - Desafio DIO: Construindo um app usando o sensor de movimento com React Native
+   - Desafio DIO: Construindo um app usando o sensor de movimento com React Native - flashlight
      
      
      
-     **Conteúdo***
+     **Conteúdo**
      
      * Libs react-native-shake e react-native-torch
      * icons: [icons - Google Drive](https://drive.google.com/drive/folders/1Kuh5tysH7-UFuSLHX0IQIIh2xcghHUIX)
