@@ -8,6 +8,10 @@ Este repositório contém atividades práticas dos Cursos da DIO ([Digital Innov
    
    - Desafio DIO: Construindo um app usando o sensor de movimento com React Native - flashlight
      
+     ![image](https://user-images.githubusercontent.com/88914187/176599488-7127e343-476b-4799-9adc-d993fe8a3bb7.png)
+
+     
+     
      
      
      **Conteúdo**
